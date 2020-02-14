@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cyberark_logo.png">
+</p>
+
 # Introduction
 
 In this scenario, you will get an overview of the Secretless Broker, and you will learn how to deploy Secretless Broker, along with an application that has *no knowledge of passwords* and a database backend.

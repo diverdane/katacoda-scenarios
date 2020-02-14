@@ -31,6 +31,30 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "postgres.yml",
+          "target": "/root"
+        },
+        {
+          "file": "cyberark_logo.png",
+          "target": ""
+        },
+        {
+          "file": "application-entitlements.yml",
+          "target": "/root"
+        },
+        {
+          "file": "secretless.yml",
+          "target": "/root"
+        },
+        {
+          "file": "security_admin.jpg",
+          "target": ""
+        }
+      ]
     }
   },
   "environment": {
