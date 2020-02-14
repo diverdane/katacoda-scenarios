@@ -1,5 +1,5 @@
 {
-  "title": "Demo of CyberArk Secretless Broker running on Kubernetes",
+  "title": "CyberArk Secretless Broker on Kubernetes",
   "description": "Demo of CyberArk Secretless Broker running on Kubernetes",
   "difficulty": "Beginner",
   "time": "20 minutes",
