@@ -2,7 +2,7 @@
   "title": "CyberArk Secretless Broker on Kubernetes",
   "description": "Demo of CyberArk Secretless Broker running on Kubernetes",
   "difficulty": "Beginner",
-  "time": "20 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
@@ -43,7 +43,7 @@
           "target": ""
         },
         {
-          "file": "application-entitlements.yml",
+          "file": "demo-app-entitlements.yml",
           "target": "/root"
         },
         {
@@ -58,7 +58,8 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hideintro": false
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"

@@ -9,7 +9,7 @@ To achieve that goal, you’ll play two roles in this tutorial:
 The situation looks like this:
 
 <p align="center">
-  <img width="600" height="400" src="https://secretless.io/img/secretless_overview.jpg">
+  <img src="https://secretless.io/img/secretless_overview.jpg">
 </p>
 
 Specifically, we will:
