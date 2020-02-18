@@ -24,6 +24,18 @@
       {
         "title": "Step 5",
         "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step6.md"
+      },
+      {
+        "title": "Appendix",
+        "text": "step7.md"
+      },
+      {
+        "title": "Conclusion",
+        "text": "step8.md"
       }
     ],
     "intro": {
@@ -53,6 +65,19 @@
         {
           "file": "security_admin.jpg",
           "target": ""
+        },
+        {
+          "file": "application_developer.jpg",
+          "target": ""
+        },
+        {
+          "file": "clear_admin_env.sh",
+          "target": "/root",
+          "chmod": "+x"
+        },
+        {
+          "file": "demo-app-deployment.yml",
+          "target": "/root"
         }
       ]
     }
