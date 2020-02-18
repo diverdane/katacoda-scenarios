@@ -1,5 +1,6 @@
 {
   "title": "CyberArk Secretless Broker on Kubernetes",
+  "icon": "fa-kubernetes",
   "description": "Demo of CyberArk Secretless Broker running on Kubernetes",
   "difficulty": "Beginner",
   "time": "30 minutes",

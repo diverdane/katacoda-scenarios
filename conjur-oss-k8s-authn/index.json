@@ -1,0 +1,52 @@
+{
+  "title": "Conjur Kubernetes Authenticator & Secretless",
+  "icon": "fa-kubernetes",
+  "description": "Learn how to securely pass secrets stored in Conjur to Kubernetes applications",
+  "details": {
+    "steps": [
+      { "title": "Overview", "text": "overview.md" },
+      { "title": "Setup Minikube", "text": "minikube-1.md" },
+      { "title": "Review Cluster Info", "text": "minikube-2.md" },
+      { "title": "Enabling Dashboard", "text": "minikube-3.md" },
+      { "title": "Enabling Tunnel", "text": "minikube-4.md" },
+
+      { "title": "Build & Deploy Insecure App", "text": "insecure-1.md" },
+      { "title": "Using Insecure App", "text": "insecure-2.md" },
+      { "title": "Risk of Embedded Secrets", "text": "insecure-3.md" },
+      
+      { "title": "Depoy Conjur", "text": "conjur-1.md" },
+      { "title": "Initalize Conjur", "text": "conjur-2.md" },
+      { "title": "Change Admin Password", "text": "conjur-3.md" },
+      { "title": "Load Policies", "text": "conjur-4.md" },
+      { "title": "Initalize CA", "text": "conjur-5.md" },
+      
+      { "title": "Build & Deploy Secure App", "text": "secure-1.md" },
+      { "title": "Using Secure App", "text": "secure-2.md" },
+      { "title": "No More Embedded Secrets", "text": "secure-3.md" },
+      
+      { "title": "Secretless", "text": "secretless-1.md" },
+      { "title": "Deploy Backend", "text": "secretless-2.md" },
+      { "title": "Update Conjur Policy", "text": "secretless-3.md" },
+      { "title": "Deploy Secretless App", "text": "secretless-4.md" },
+      { "title": "Test the App!", "text": "secretless-5.md" }
+      
+
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "env-init.sh",
+      "credits": "https://www.conjur.org"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showdashboard": true,
+     "dashboards": [{"name": "Minikube Dashboard", "port": 30000}]
+  },
+  "backend": {
+    "imageid": "minikube"
+  }
+}
