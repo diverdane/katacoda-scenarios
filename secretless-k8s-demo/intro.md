@@ -4,7 +4,7 @@
 
 # Introduction
 
-In this scenario, you will get an overview of the Secretless Broker, and you will learn how to deploy Secretless Broker, along with an application that has *no knowledge of passwords* and a database backend.
+In this scenario, you will get an overview of the Secretless Broker and learn how to deploy it, along with an application that has *no knowledge of passwords* and a database backend.
 
 ## What is Secretless Broker?
 With the Secretless Broker feature of Conjur, applications can securely connect to databases, services and other protected resources – without fetching or managing secrets.

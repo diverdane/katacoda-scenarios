@@ -1,4 +1,3 @@
-# Overview
 Applications and application developers should be incapable of leaking secrets.
 
 To achieve that goal, you’ll play two roles in this tutorial:

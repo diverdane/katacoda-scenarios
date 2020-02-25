@@ -1,4 +1,3 @@
-# Before we begin...
 This is a detailed, step-by-step tutorial.
 
 You will:

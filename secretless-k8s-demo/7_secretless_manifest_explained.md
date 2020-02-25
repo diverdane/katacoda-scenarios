@@ -1,5 +1,3 @@
-# Secretless Deployment Manifest Explained
-
 Here we’ll walk through the application [deployment manifest](assets/demo-app-deployment.yml), to better understand how Secretless works.
 
 We’ll focus on the Pod’s template, which is where the magic happens:

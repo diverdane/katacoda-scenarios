@@ -1,5 +1,3 @@
-# Configure Secretless Broker
-
 <p align="center">
   <img src="assets/application_developer.jpg">
 </p>

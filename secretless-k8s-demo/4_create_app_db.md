@@ -1,5 +1,3 @@
-# Create an Application Database and Service Account
-
 <p align="center">
   <img src="assets/security_admin.jpg">
 </p>

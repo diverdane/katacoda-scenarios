@@ -1,5 +1,3 @@
-# Configure Secretless Broker
-
 <p align="center">
   <img src="assets/security_admin.jpg">
 </p>

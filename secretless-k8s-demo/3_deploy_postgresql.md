@@ -1,5 +1,3 @@
-# Deploy PostgreSQL Database
-
 <p align="center">
   <img src="assets/security_admin.jpg">
 </p>
